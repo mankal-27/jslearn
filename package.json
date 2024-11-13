@@ -1,0 +1,23 @@
+{
+  "name": "jslearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankal-27/jslearn.git"
+  },
+  "keywords": [
+    "JS",
+    "advanced"
+  ],
+  "author": "Manjunath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankal-27/jslearn/issues"
+  },
+  "homepage": "https://github.com/mankal-27/jslearn#readme"
+}
